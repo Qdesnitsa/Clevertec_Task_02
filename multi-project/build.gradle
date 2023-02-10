@@ -1,0 +1,7 @@
+allprojects {
+    group 'ru.clevertec.gradle_lesson'
+    version '1.0-SNAPSHOT'
+    repositories {
+        mavenCentral()
+    }
+}
