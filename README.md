@@ -8,6 +8,5 @@
 Как пример функциональности плагина - тестирование и формирование отчета.
 
 Инструкция по формированию и автозапуску отчёта в браузере:
-1. multi-project directory: gradle build
-2. cd core
-3. gradle allureServe
+1. multi-project directory: gradle clean build
+2. gradle allureServe
